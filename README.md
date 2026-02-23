@@ -1,7 +1,7 @@
 # BRANDY
 ### Brand Communications Audit System
 
-**Most brand strategy fails not from lack of data, but from lack of discipline in reading what's already visible.**
+__Most brand strategy fails not from lack of data, but from lack of discipline in reading what's already visible.__
 
 BRANDY is a structured audit system that turns a brand name — and whatever data you have — into a documented evidence matrix and a strategic one-page memo, with every claim traceable to a specific, labeled observation.
 
